@@ -1,0 +1,22 @@
+{
+  "name": "chat-keeper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/bot.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bogdanbpeterson/chat-keeper.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "chat"
+  ],
+  "author": "Bogdan B Peterson <github@bogdanbpeterson.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/bogdanbpeterson/chat-keeper/issues"
+  },
+  "homepage": "https://github.com/bogdanbpeterson/chat-keeper#readme"
+}
